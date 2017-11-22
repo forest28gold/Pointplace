@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pointplace</string>
+
+    <string name="drawer_open">Åben</string>
+    <string name="drawer_close">Tæt</string>
+    
+    <string name="tutorial_title1">Fedt du kunne komme!</string>
+    <string name="tutorial_title2">Alt nødvendig information</string>
+    <string name="tutorial_title3">Vi gør det for dig!</string>
+    <string name="tutorial_title4">Vi håber det vil gavne!</string>
+    <string name="tutorial_title5">Del placering</string>
+    
+    <string name="tutorial1_text1">Pointplace er den mest nøjagtige</string>
+    <string name="tutorial1_text2">søgemaskine for virksomheder</string>
+    <string name="tutorial1_text3">og steder hele</string>
+    <string name="tutorial1_text4">verden rundt.</string>
+    <string name="tutorial1_text5"> </string>
+    <string name="tutorial1_text6">Hvordan?</string>
+    
+    <string name="tutorial2_text1">Pointplace kræver simple men</string>
+    <string name="tutorial2_text2">vigtige data fra hver virksomhed</string>
+    <string name="tutorial2_text3">og placering registreret -</string>
+    <string name="tutorial2_text4">samt sikre vi os at alt information</string>
+    <string name="tutorial2_text5">er verificeret hver 3. måned.</string>
+    <string name="tutorial2_text6">Hvorfor?</string>
+    
+    <string name="tutorial3_text1">For os er det vigtigt at du kan</string>
+    <string name="tutorial3_text2">stole på de informationer du får</string>
+    <string name="tutorial3_text3">så du kan sikre at butikken har</string>
+    <string name="tutorial3_text4">åben og at der er plads til en</string>
+    <string name="tutorial3_text5">kørestol i den lokale cafe.</string>
+    <string name="tutorial3_text6">Det er for sejt!</string>
+    
+    <string name="tutorial4_text1">Vi håber at Pointplace kan hjælpe</string>
+    <string name="tutorial4_text2">dig med at finde nye steder</string>
+    <string name="tutorial4_text3">at opleve. Vi ved at du vil</string>
+    <string name="tutorial4_text4">komme til at elske Pointplace!</string>
+    <string name="tutorial4_text5"> </string>
+    <string name="tutorial4_text6">Tak - med garanti!</string>
+    
+    <string name="tutorial5_text1">Tillad Pointplace at få adgang</string>
+    <string name="tutorial5_text2">til din nuværende placering, så vi</string>
+    <string name="tutorial5_text3">bedre kan levere resultater.</string>
+    <string name="tutorial5_text4">Del min placering</string>
+    <string name="tutorial5_text5"> </string>
+    <string name="tutorial5_text6">Swipe for at skippe</string>
+    
+    <string name="str_alert">Alarm</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Afslå</string>
+    <string name="str_share_location_alert">Pointplace vil nu bruge din nuværende placering!</string>
+    <string name="str_network_error">Netværk utilgængelig. Kontroller dine netværksindstillinger og prøv igen</string>
+    <string name="str_no_results">Ingen resultater til rådighed.</string>
+    <string name="str_check_soon">Check tilbage snart\.\.\.</string>
+    
+	<string name="sidemenu_home">Forside</string>
+	<string name="sidemenu_profile">Min Profil</string>
+	<string name="sidemenu_favorite">Mine Favoritter</string>
+	<string name="sidemenu_settings">Indstillinger</string>
+	<string name="sidemenu_business">Min Virksomhed</string>
+	<string name="sidemenu_analytics">Statistikker</string>
+	<string name="sidemenu_logout">Log Ud</string>
+    
+    <string name="p2refresh_head_load_more">Indlæs mere</string>
+    <string name="p2refresh_end_load_more">Mere</string>
+    <string name="p2refresh_end_click_load_more">Klik Indlæs</string>
+    <string name="p2refresh_release_refresh">Opdater frigivelse</string>
+    <string name="p2refresh_pull_to_refresh">Opdater dropdown</string>
+    <string name="p2refresh_doing_head_refresh">Opdeterer&#8230;</string>
+    <string name="p2refresh_doing_end_refresh">Indlæser&#8230;</string>
+    <string name="p2refresh_refresh_lasttime">Senest Opdateret&#160;&#058;&#160;</string>
+    
+    <string name="err_unknown">Applikationen har stødt ukendt fejl under kommunikationen med serveren.</string>
+    <string name="err_no_internet">Ansøgningen var ude af stand til at oprette forbindelse til serveren på grund af manglende internetforbindelse.</string>     
+    <string name="err_io">Der var input / output fejl under tilslutning til serveren.</string>
+    <string name="err_timeout">Langsom internetforbindelse resulteret i forbindelse timeout, prøv igen.</string>
+    <string name="err_protocol">Der opstod en fejl med netværksprotokol, prøv senere.</string>
+    <string name="err_uri">Den ressource placeret på serveren blev ikke fundet.</string>
+    
+    <string name="str_login">Log ind</string>
+    <string name="str_signup">Registrer</string>
+    
+    <string name="str_home_menu00">Mad og Drikke</string>
+    <string name="str_home_menu11">Shopping</string>
+    <string name="str_home_menu12">Rejse og indlogering</string>
+    <string name="str_home_menu21">Automotive</string>
+    <string name="str_home_menu22">Hus og Have</string>
+    <string name="str_home_menu31">Undervisning</string>
+    <string name="str_home_menu32">Computer og Elektronik</string>
+    <string name="str_home_menu41">Sundhed og Skønhed</string>
+    <string name="str_home_menu42">Juridiske og Finansielle ydelser</string>
+    <string name="str_home_menu51">Underholdning og Kunst</string>
+    <string name="str_home_menu52">Fritid og Sportsudstyr</string>
+    <string name="str_home_menu61">Professionelle ydelser</string>
+    <string name="str_home_menu62">Ejendomsmægler</string>
+    <string name="str_home_menu71">Business to Business</string>
+    <string name="str_home_menu72">Regering og Fællesskab</string>
+    <string name="str_home_menu81">Seværdigheder</string>
+    
+    <string name="str_sidemenu_copyright">© Copyright 2015 Phoobs</string>
+    <string name="str_footer_copyright">© Phoobs 2015 · Alle Rettigheder Forbeholdes</string>
+    
+    <string name="str_site_menu_home">Forside</string>
+    <string name="str_site_menu_about_us">Om</string>
+    <string name="str_site_menu_menu">Menu</string>
+    <string name="str_site_menu_gallery">Galleri</string>
+    <string name="str_site_menu_contact">Kontakt</string>
+    
+    <string name="str_search_what">Hvad?</string>
+    <string name="str_search_where">Hvor?</string>
+    <string name="str_search_subcategory">Vælg Underkategori</string>
+    <string name="str_search_nearby">I nærheden</string>
+    <string name="str_search_button">Søg</string>
+    <string name="str_search_text_placeholder">Søg efter....</string>
+    <string name="str_search_category">Vælg Kategori</string>
+    <string name="str_search_city">Vælg By</string>
+    <string name="str_search_all_subcategory">Alle Underkategorier</string>
+    
+    <string name="str_card_shares">delt</string>
+    <string name="str_card_appreciations">påskønnelser</string>
+    <string name="str_card_description">BESKRIVELSE AF BELIGGENHED</string>
+    <string name="str_card_address">ADDRESSE &amp; KONTAKT</string>
+    <string name="str_card_phone">Telefon: </string>
+    <string name="str_card_mobile">Mobil: </string>
+    <string name="str_card_fax">Fax: </string>
+    <string name="str_card_email">E-mail: </string>
+    <string name="str_card_time">ÅBNINGSTIDER</string>
+    <string name="str_card_time_mon">Man: </string>
+    <string name="str_card_time_tue">Tir: </string>
+    <string name="str_card_time_wed">Ons: </string>
+    <string name="str_card_time_thu">Tor: </string>
+    <string name="str_card_time_fri">Fre: </string>
+    <string name="str_card_time_sat">Lør: </string>
+    <string name="str_card_time_sun">Søn: </string>
+    <string name="str_card_copyright">© Copyright 2015 </string>
+    <string name="str_card_report">Rapporter dette kort</string>
+
+    <string name="str_mail_subject">Nogle Emne</string>
+    <string name="str_mail_content">En eller anden</string>
+
+    <string name="please_wait">Vent venligst...</string>
+    
+</resources>

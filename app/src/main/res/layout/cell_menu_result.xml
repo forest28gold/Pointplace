@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+
+        <RelativeLayout
+            android:id="@+id/relativelayout_background"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_cell_result" >
+
+            <com.phoobs.pointplace2.utility.RectImageView
+                android:id="@+id/rectImageView_result"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:scaleType="fitXY"
+                android:src="@mipmap/home_menu12" />
+
+            <TextView
+                android:id="@+id/textView_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+				android:layout_marginRight="20dp"
+                android:layout_toRightOf="@+id/rectImageView_result"
+                android:text="With Sugar?"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/black_panel"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/textView_subcategory"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/textView_description"
+                android:layout_below="@+id/textView_description"
+                android:text="Cafe"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/black_overlay"
+                android:textSize="13sp"
+                android:textStyle="italic" />
+
+            <ImageView
+                android:id="@+id/imageView_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/rectImageView_result"
+                android:layout_alignLeft="@+id/textView_subcategory"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="-2dp"
+                android:src="@mipmap/compass" />
+
+            <TextView
+                android:id="@+id/textView_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/imageView_distance"
+                android:layout_marginBottom="2dp"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/imageView_distance"
+                android:text="200m"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="@color/black_overlay"
+                android:textSize="12sp" />
+
+            <RelativeLayout
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:background="@mipmap/background_cell_result">
+
+                <Button
+                    android:id="@+id/button_share"
+                    style="?android:attr/buttonStyleSmall"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:background="@drawable/btn_share_result"
+                    android:minHeight="40dip"
+                    android:minWidth="40dip"/>
+
+                <Button
+                    android:id="@+id/button_like"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/like_button"
+                    android:minHeight="40dip"
+                    android:minWidth="40dip"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+            </RelativeLayout>
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignTop="@+id/rectImageView_result"
+                android:layout_marginLeft="-5dp"
+                android:layout_toLeftOf="@+id/textView_subcategory"
+                android:layout_toRightOf="@+id/rectImageView_result"
+                android:background="@color/white" >
+            </FrameLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+            <RelativeLayout
+                android:id="@+id/relativelayout_background"
+                android:layout_width="match_parent"
+                android:layout_height="210dp"
+                android:background="@mipmap/home_menu00" >
+
+                    <!-- app:shadow="true" /> -->
+
+                <ImageButton
+                    android:id="@+id/imageButton_menu_header"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_home_menu" />
+
+                <ImageView
+                    android:id="@+id/imageView_home_menu_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginBottom="15dp"
+                    android:layout_marginLeft="14dp"
+                    android:src="@mipmap/home_icon00" />
+
+                <TextView
+                    android:id="@+id/textView_home_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/imageView_home_menu_icon"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_toRightOf="@+id/imageView_home_menu_icon"
+                    android:text="Food &amp; Dining"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+ 
+    
+
+</LinearLayout>

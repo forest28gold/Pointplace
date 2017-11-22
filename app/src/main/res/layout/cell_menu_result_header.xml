@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/relativelayout_background"
+                android:layout_width="match_parent"
+                android:layout_height="60dp" >
+
+                    <!-- app:shadow="true" /> -->
+
+                <ImageView
+                    android:id="@+id/imageView_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="20dp"
+                    android:src="@mipmap/home_icon_dark00" />
+
+                <TextView
+                    android:id="@+id/textView_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@+id/imageView_menu"
+                    android:text="Food &amp; Dining near you"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/black_panel"
+                    android:textSize="17sp"
+                    android:textStyle="bold" />
+
+            </RelativeLayout>
+
+ 
+    
+
+</LinearLayout>

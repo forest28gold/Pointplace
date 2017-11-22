@@ -1,0 +1,48 @@
+<resources>
+
+    <color name="colorPrimary">#0080be</color>
+    <color name="colorPrimaryDark">#0e76bc</color>
+    <color name="colorAccent">#36a3d8</color>
+
+    <color name="primary_text">#fff</color>
+    <color name="secondary_text">#fff</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#e87206</color>
+    <color name="black">#000000</color>
+    <color name="black_panel">#6b6969</color>
+    <color name="black_overlay">#acabab</color>
+    
+    <color name="yello">#da5403</color>
+    <color name="yello_overlay">#e87206</color>
+    
+    <color name="blue">#0e76bc</color>
+    <color name="blue_overlay">#dcdcdc</color>
+    
+    <color name="green">#00ab14</color>
+    <color name="green_welcome">#0080be</color>
+    <color name="green_overlay">#36a3d8</color>
+    
+    <color name="gray">#83878a</color>
+    
+    <color name="red">#cb0e05</color>
+    
+    <color name="hvyellow">#da5403</color>
+    <color name="ltyellow">#e87206</color>
+    <color name="hvgray">#d6d6d6</color>
+    <color name="ltgray">#e9e6e6</color>
+    
+    
+    <color name="transparent">#00FFFFFF</color>
+    <color name="black_screen">#A0000000</color>
+    <color name="white_overlay">#90FFFFFF</color>
+    <color name="white_screen">#90FFFFFF</color>
+    <color name="login_overlay">#CFFFFFFF</color>
+    <color name="light_overlay">#F0FFFFFF</color>
+	<color name="cream">#fffffacf</color>
+	<color name="dkGray">#ff191919</color>
+	
+	<color name="pull_refresh_textview">#000000</color>
+    <color name="gold">#000000</color>
+    
+</resources>

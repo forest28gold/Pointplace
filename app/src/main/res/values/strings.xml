@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pointplace</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="tutorial_title1">Great you made it!</string>
+    <string name="tutorial_title2">All necessary info</string>
+    <string name="tutorial_title3">We do it for you!</string>
+    <string name="tutorial_title4">So please\.\.\. Enjoy!</string>
+    <string name="tutorial_title5">Share location</string>
+
+    <string name="tutorial1_text1">Pointplace is the most accurate</string>
+    <string name="tutorial1_text2">search engine of businesses</string>
+    <string name="tutorial1_text3">and places all around</string>
+    <string name="tutorial1_text4">the world.</string>
+    <string name="tutorial1_text5"> </string>
+    <string name="tutorial1_text6">How come?</string>
+
+    <string name="tutorial2_text1">Pointplace requires simple but</string>
+    <string name="tutorial2_text2">important data from each business</string>
+    <string name="tutorial2_text3">and location registered -</string>
+    <string name="tutorial2_text4">plus everything is ensured</string>
+    <string name="tutorial2_text5">to be verified every third month.</string>
+    <string name="tutorial2_text6">Why?</string>
+
+    <string name="tutorial3_text1">For us it is important that you can</string>
+    <string name="tutorial3_text2">trust the information you are given</string>
+    <string name="tutorial3_text3">so you are certain that the store is</string>
+    <string name="tutorial3_text4">open and there is space for a </string>
+    <string name="tutorial3_text5">wheelchair at the local café.</string>
+    <string name="tutorial3_text6">That’s awesome!</string>
+
+    <string name="tutorial4_text1">We hope that Pointplace can help</string>
+    <string name="tutorial4_text2">you with your search for new places</string>
+    <string name="tutorial4_text3">to experience. We know that</string>
+    <string name="tutorial4_text4">you will love Pointplace!</string>
+    <string name="tutorial4_text5"> </string>
+    <string name="tutorial4_text6">Thanks - I will!</string>
+
+    <string name="tutorial5_text1">Allow Pointplace access to your</string>
+    <string name="tutorial5_text2">location to make it easier for us</string>
+    <string name="tutorial5_text3">to deliver better results.</string>
+    <string name="tutorial5_text4">Share my location</string>
+    <string name="tutorial5_text5"> </string>
+    <string name="tutorial5_text6">Swipe to skip</string>
+
+    <string name="str_alert">Alert</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_share_location_alert">Pointplace will now use your location!</string>
+    <string name="str_network_error">Network unavailable. Please check your network settings and retry</string>
+    <string name="str_no_results">No results available.</string>
+    <string name="str_check_soon">Check back soon\.\.\.</string>
+
+    <string name="sidemenu_home">Home</string>
+    <string name="sidemenu_profile">My Profile</string>
+    <string name="sidemenu_favorite">My Favorites</string>
+    <string name="sidemenu_settings">Settings</string>
+    <string name="sidemenu_business">My Business</string>
+    <string name="sidemenu_analytics">Analytics</string>
+    <string name="sidemenu_logout">Log Out</string>
+
+    <string name="p2refresh_head_load_more">Load more</string>
+    <string name="p2refresh_end_load_more">More</string>
+    <string name="p2refresh_end_click_load_more">Click Load</string>
+    <string name="p2refresh_release_refresh">Refresh release</string>
+    <string name="p2refresh_pull_to_refresh">Refresh dropdown</string>
+    <string name="p2refresh_doing_head_refresh">Refreshing&#8230;</string>
+    <string name="p2refresh_doing_end_refresh">Loading&#8230;</string>
+    <string name="p2refresh_refresh_lasttime">Last Updated&#160;&#058;&#160;</string>
+
+    <string name="err_unknown">The application has encountered unknown error while communicating with server.</string>
+    <string name="err_no_internet">The application was unable to connect to server due to lack of internet connectivity.</string>
+    <string name="err_io">There was input/output error while connecting to server.</string>
+    <string name="err_timeout">Slow internet connection resulted in connection timeout, try again.</string>
+    <string name="err_protocol">There was an error with network protocol, please try later.</string>
+    <string name="err_uri">The resource located on server was not found.</string>
+
+    <string name="str_login">Log in</string>
+    <string name="str_signup">Sign up</string>
+
+    <string name="str_home_menu00">Food &amp; Dining</string>
+    <string name="str_home_menu11">Shopping</string>
+    <string name="str_home_menu12">Travel &amp; Lodging</string>
+    <string name="str_home_menu21">Automotive</string>
+    <string name="str_home_menu22">Home &amp; Garden</string>
+    <string name="str_home_menu31">Education</string>
+    <string name="str_home_menu32">Computers &amp; Electronics</string>
+    <string name="str_home_menu41">Health &amp; Beauty</string>
+    <string name="str_home_menu42">Legal &amp; Financial</string>
+    <string name="str_home_menu51">Entertainment &amp; Arts</string>
+    <string name="str_home_menu52">Recreation &amp; Sporting Goods</string>
+    <string name="str_home_menu61">Professional Service</string>
+    <string name="str_home_menu62">Real Estate</string>
+    <string name="str_home_menu71">Business to Business</string>
+    <string name="str_home_menu72">Government &amp; Community</string>
+    <string name="str_home_menu81">Landmarks</string>
+
+    <string name="str_sidemenu_copyright">© Copyright 2015 Phoobs</string>
+    <string name="str_footer_copyright">© Phoobs 2015 · All Rights Reserved</string>
+
+    <string name="str_site_menu_home">Home</string>
+    <string name="str_site_menu_about_us">About us</string>
+    <string name="str_site_menu_menu">Menu</string>
+    <string name="str_site_menu_gallery">Gallery</string>
+    <string name="str_site_menu_contact">Contact</string>
+
+    <string name="str_search_what">What?</string>
+    <string name="str_search_where">Where?</string>
+    <string name="str_search_subcategory">Select Subcategory</string>
+    <string name="str_search_nearby">Nearby</string>
+    <string name="str_search_button">Search</string>
+    <string name="str_search_text_placeholder">Search for....</string>
+    <string name="str_search_category">Select Category</string>
+    <string name="str_search_city">Select City</string>
+    <string name="str_search_all_subcategory">All Subcategories</string>
+
+    <string name="str_card_shares">shares</string>
+    <string name="str_card_appreciations">appreciations</string>
+    <string name="str_card_description">LOCATION DESCRIPTION</string>
+    <string name="str_card_address">ADDRESS &amp; CONTACT</string>
+    <string name="str_card_phone">Phone: </string>
+    <string name="str_card_mobile">Mobile: </string>
+    <string name="str_card_fax">Fax: </string>
+    <string name="str_card_email">Email: </string>
+    <string name="str_card_time">OPENING HOURS</string>
+    <string name="str_card_time_mon">Mon: </string>
+    <string name="str_card_time_tue">Tue: </string>
+    <string name="str_card_time_wed">Wed: </string>
+    <string name="str_card_time_thu">Thu: </string>
+    <string name="str_card_time_fri">Fri: </string>
+    <string name="str_card_time_sat">Sat: </string>
+    <string name="str_card_time_sun">Sun: </string>
+    <string name="str_card_copyright">© Copyright 2015 </string>
+    <string name="str_card_report">Report this card</string>
+
+    <string name="str_mail_subject">Some Subject</string>
+    <string name="str_mail_content">Some body</string>
+
+    <string name="please_wait">Please wait...</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

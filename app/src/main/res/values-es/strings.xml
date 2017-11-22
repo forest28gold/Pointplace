@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pointplace</string>
+
+    <string name="drawer_open">Abierto</string>
+    <string name="drawer_close">Cerca</string>
+    
+    <string name="tutorial_title1">Gran usted lo hizo!</string>
+    <string name="tutorial_title2">Toda la información necesaria</string>
+    <string name="tutorial_title3">Nosotros lo hacemos por usted!</string>
+    <string name="tutorial_title4">Por favor\.\.\. Disfrute!</string>
+    <string name="tutorial_title5">Compartir ubicación</string>
+    
+    <string name="tutorial1_text1">Pointplace es el motor de</string>
+    <string name="tutorial1_text2">búsqueda más precisa de las</string>
+    <string name="tutorial1_text3">empresas y lugares de todo</string>
+    <string name="tutorial1_text4"> el mundo.</string>
+    <string name="tutorial1_text5"> </string>
+    <string name="tutorial1_text6">Como?</string>
+    
+    <string name="tutorial2_text1">Pointplace requiere datos simples</string>
+    <string name="tutorial2_text2">pero importantes de cada negocio</string>
+    <string name="tutorial2_text3">y la ubicación registrada -</string>
+    <string name="tutorial2_text4">además de todo lo que se garantiza</string>
+    <string name="tutorial2_text5">que verificar cada tres meses.</string>
+    <string name="tutorial2_text6">¿Por qué?</string>
+    
+    <string name="tutorial3_text1">Para nosotros es importante que usted</string>
+    <string name="tutorial3_text2">puede confiar en la información que</string>
+    <string name="tutorial3_text3">se le da por lo que está seguro de</string>
+    <string name="tutorial3_text4">que la tienda está abierta y hay espacio</string>
+    <string name="tutorial3_text5">para una silla de ruedas en el café local.</string>
+    <string name="tutorial3_text6">Eso es genial!</string>
+    
+    <string name="tutorial4_text1">Esperamos que Pointplace puede</string>
+    <string name="tutorial4_text2">ayudarle con su búsqueda de nuevos</string>
+    <string name="tutorial4_text3">lugares para experimentar. Sabemos</string>
+    <string name="tutorial4_text4">que te encantará Pointplace!</string>
+    <string name="tutorial4_text5"> </string>
+    <string name="tutorial4_text6">Gracias lo haré!</string>
+    
+    <string name="tutorial5_text1">Permitir el acceso Pointplace a su</string>
+    <string name="tutorial5_text2">ubicación para que sea más fácil para</string>
+    <string name="tutorial5_text3">nosotros entregamos mejores resultados.</string>
+    <string name="tutorial5_text4">Compartir mi ubicación</string>
+    <string name="tutorial5_text5"> </string>
+    <string name="tutorial5_text6">Pase para saltar</string>
+    
+    <string name="str_alert">Alerta</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">Cancelar</string>
+    <string name="str_share_location_alert">Pointplace usará ahora su ubicación!</string>
+    <string name="str_network_error">Red disponible. Por favor, compruebe la configuración de red y vuelva a intentarlo</string>
+    <string name="str_no_results">No hay resultados disponibles.</string>
+    <string name="str_check_soon">Vuelve a consultar pronto\.\.\.</string>
+    
+	<string name="sidemenu_home">Inicio</string>
+	<string name="sidemenu_profile">Mi Perfil</string>
+	<string name="sidemenu_favorite">Mis Favoritos</string>
+	<string name="sidemenu_settings">Ajustes</string>
+	<string name="sidemenu_business">Mi Negocio</string>
+	<string name="sidemenu_analytics">Analítica</string>
+	<string name="sidemenu_logout">Finalizar la sesión</string>
+    
+    <string name="p2refresh_head_load_more">Carga más</string>
+    <string name="p2refresh_end_load_more">Más</string>
+    <string name="p2refresh_end_click_load_more">Haga clic en Cargar</string>
+    <string name="p2refresh_release_refresh">Liberación Actualizar</string>
+    <string name="p2refresh_pull_to_refresh">Desplegable Actualizar</string>
+    <string name="p2refresh_doing_head_refresh">Refrescante&#8230;</string>
+    <string name="p2refresh_doing_end_refresh">Cargando&#8230;</string>
+    <string name="p2refresh_refresh_lasttime">Última Actualización&#160;&#058;&#160;</string>
+    
+    <string name="err_unknown">La aplicación ha detectado error desconocido durante la comunicación con el servidor.</string>
+    <string name="err_no_internet">La aplicación no pudo conectar con el servidor debido a la falta de conexión a Internet.</string>     
+    <string name="err_io">No había error de entrada / salida mientras se conecta al servidor.</string>
+    <string name="err_timeout">Conexión a Internet lenta resultó en espera de conexión, inténtelo de nuevo.</string>
+    <string name="err_protocol">Hubo un error con el protocolo de red, por favor intente más tarde.</string>
+    <string name="err_uri">No se encontró el recurso se encuentra en el servidor.</string>
+    
+    <string name="str_login">Iniciar la sesión</string>
+    <string name="str_signup">Registrarse</string>
+    
+    <string name="str_home_menu00">Alimentos y Bebidas</string>
+    <string name="str_home_menu11">Compras</string>
+    <string name="str_home_menu12">Viajes y Alojamiento</string>
+    <string name="str_home_menu21">Automoción</string>
+    <string name="str_home_menu22">Casa y Jardín</string>
+    <string name="str_home_menu31">Educación</string>
+    <string name="str_home_menu32">Informática y Electrónica</string>
+    <string name="str_home_menu41">Salud y Bienestar</string>
+    <string name="str_home_menu42">Servicios Legales y Financieros</string>
+    <string name="str_home_menu51">Entretenimiento y Arte</string>
+    <string name="str_home_menu52">Relax y deporte</string>
+    <string name="str_home_menu61">Servicios Profesionales</string>
+    <string name="str_home_menu62">Inmobiliarias</string>
+    <string name="str_home_menu71">Empresa a Empresa</string>
+    <string name="str_home_menu72">Gobierno y Comunidad</string>
+    <string name="str_home_menu81">Monumentos históricos</string>
+    
+    <string name="str_sidemenu_copyright">© Copyright 2015 Phoobs</string>
+    <string name="str_footer_copyright">© Phoobs 2015 · Reservados todos los derechos</string>
+    
+    <string name="str_site_menu_home">Inicio</string>
+    <string name="str_site_menu_about_us">Sobre</string>
+    <string name="str_site_menu_menu">Menú</string>
+    <string name="str_site_menu_gallery">Galería</string>
+    <string name="str_site_menu_contact">Contacto</string>
+    
+    <string name="str_search_what">¿Qué?</string>
+    <string name="str_search_where">¿Dónde?</string>
+    <string name="str_search_subcategory">Seleccionar Subcategoría</string>
+    <string name="str_search_nearby">Cercano</string>
+    <string name="str_search_button">Búsqueda</string>
+    <string name="str_search_text_placeholder">Buscar....</string>
+    <string name="str_search_category">Selecciona Una Categoría</string>
+    <string name="str_search_city">Seleccionar Ciudad</string>
+    <string name="str_search_all_subcategory">Todas las subcategorías</string>
+    
+    <string name="str_card_shares">acciones</string>
+    <string name="str_card_appreciations">apreciaciones</string>
+    <string name="str_card_description">DESCRIPCIÓN DE LA LOCALIZACIÓN</string>
+    <string name="str_card_address">DIRECCIÓN Y CONTACTO</string>
+    <string name="str_card_phone">Teléfono: </string>
+    <string name="str_card_mobile">Móvil: </string>
+    <string name="str_card_fax">Fax: </string>
+    <string name="str_card_email">Email: </string>
+    <string name="str_card_time">HORARIOS</string>
+    <string name="str_card_time_mon">Lun: </string>
+    <string name="str_card_time_tue">Mar: </string>
+    <string name="str_card_time_wed">Mie: </string>
+    <string name="str_card_time_thu">Jue: </string>
+    <string name="str_card_time_fri">Vie: </string>
+    <string name="str_card_time_sat">Sab: </string>
+    <string name="str_card_time_sun">Dom: </string>
+    <string name="str_card_copyright">© Copyright 2015 </string>
+    <string name="str_card_report">Reportar esta tarjeta</string>
+
+    <string name="str_mail_subject">Some Subject</string>
+    <string name="str_mail_content">Algún cuerpo</string>
+
+    <string name="please_wait">Por favor espera...</string>
+
+</resources>
